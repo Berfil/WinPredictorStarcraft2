@@ -99,8 +99,8 @@ data/                      — Parsed feature data
 ## Running locally
 
 ```bash
-git clone https://github.com/Berfil/StarcraftWinPredictor
-cd StarcraftWinPredictor
+git clone https://github.com/Berfil/WinPredictorStarcraft2
+cd WinPredictorStarcraft2
 python -m venv venv
 venv/Scripts/activate
 pip install -r requirements.txt
